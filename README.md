@@ -1,5 +1,9 @@
 <div align="center">
-  <a href="https://github.com/shihab5500"><img src="https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=200&section=header&text=Shihab%20Ahmed&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Profile Header" /></a>
+  <img src="https://i.ibb.co/KcqvKyLd/Black-Yellow-Modern-Programmer-Linked-In-Banner.png" alt="Shihab Ahmed Custom Banner | Frontend Developer | MERN Stack" width="100%"/> 
+</div>
+
+<div align="center">
+  
   
   # 👋 Hello there! I'm **Shihab Ahmed**
   ### 💻 **Frontend Expert | MERN Stack Developer | UI/UX Enthusiast**
