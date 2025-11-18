@@ -87,16 +87,18 @@
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab5500&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=shihab5500&theme=buefy&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shihab5500&show_icons=true&theme=dark&rank_icon=trophy" alt="Shihab Ahmed's GitHub Stats" />
   
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=shihab5500&theme=buefy&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+  <br>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=shihab5500&theme=dark" alt="Shihab Ahmed's GitHub Trophies" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab5500&layout=compact&theme=dark" alt="Shihab Ahmed's Top Languages" />
 </div>
 
 ---
