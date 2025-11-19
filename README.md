@@ -119,7 +119,7 @@
 <a href="https://www.facebook.com/shahariyarsani.shihab.1" target="blank">
     <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://www.linkedin.com/in/shihab-ahmed-590986383/" target="_blank">
+<a href="https://www.linkedin.com/in/shihab-ahmed20" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:saniahmed65900@gmail.com" target="_blank">
