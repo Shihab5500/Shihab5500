@@ -35,7 +35,7 @@
   </div>
   
   <div style="flex: 1 1 35%; background-color: #1a202c; padding: 20px; border-radius: 8px; border: 1px solid #2d3748;">
-    <h3><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/ColoredIcons/target.svg"><img alt="target" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/ColoredIcons/target.svg" width="20"></picture> Currently Focused</h3>
+    <h3>Currently Focused</h3>
     <ul>
       <li>🏗️ <b>Working on:</b> A Full-Stack Service Management Dashboard (using MERN + JWT).</li>
       <li>💡  <b>Exploring:</b> Advanced Web Performance Optimization techniques and Next.js features.</li>
