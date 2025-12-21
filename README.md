@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co.com/vvqrnSwC" alt="Shihab Ahmed Custom Banner | Frontend Developer | MERN Stack" width="100%"/> 
+  <img src="https://i.ibb.co.com/DHXBd0Sq/Purple-Pink-Gradient-Modern-Software-Developer-Linked-In-Banner-1.png" alt="Shihab Ahmed Custom Banner | Frontend Developer | MERN Stack" width="100%"/> 
 </div>
 
 <div align="center">
