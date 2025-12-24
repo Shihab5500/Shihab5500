@@ -20,30 +20,20 @@
 ## 🚀 About Me & Current Focus
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1 1 60%;">
-    <p>
-      I am a highly motivated <strong>Frontend Developer</strong> passionate about building visually appealing, user-friendly, and performant web applications using modern technologies. My primary focus is turning complex UI/UX designs into **clean, scalable, and             responsive code** with <b>ReactJS</b> and <b>Tailwind CSS</b>.    <b> </b>
-    </p>
-    <p>
-      Beyond the frontend, I utilize the <b>MERN Stack</b> (MongoDB, Express, React, Node.js) to build robust and secure full-stack solutions. I prioritize clean architecture, state management, and implementing secure authentication using **JWT** (JSON Web Tokens).
-    </p>
-    <br>
-    <p>
-      📍 <strong>Location:</strong> Rajshahi, Chapainawabganj, Ranihali, Bangladesh
-      <br>
-      ✉️ <strong>Email:</strong> <a href="mailto:saniahmed65900@gmail.com">saniahmed65900@gmail.com</a>
-    </p>
-  </div>
-  
-  <div style="flex: 1 1 35%; background-color: #1a202c; padding: 20px; border-radius: 8px; border: 1px solid #2d3748;">
-    <h3>Currently Focused</h3>
-    <ul>
-      <li>🏗️ <b>Working on:</b> A Full-Stack Service Management Dashboard (using MERN + JWT).</li>
-      <li>💡  <b>Exploring:</b> Advanced Web Performance Optimization techniques and Next.js features.</li>
-      <li>🌱 <b>Learning:</b> Integrating TypeScript to ensure better type safety in MERN applications.</li>
-      <li>🤝 <b>Collaboration:</b> Always open to contributing to open-source projects and sharing knowledge.</li>
-    </ul>
-  </div>
+  ## 👋 About Me
+
+Hi 👋 I'm a **MERN Stack Developer** with a strong passion for building modern, scalable, and user-friendly web applications.
+
+I specialize in **frontend development** using **HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js**, with a strong focus on clean UI, responsive design, and performance.  
+On the backend, I work with **Node.js and Express.js**, integrating **MongoDB and Firebase** to build secure and efficient full-stack applications.
+
+I enjoy turning real-world problems into practical digital solutions and have hands-on experience using tools like **Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, and React Router** to deliver high-quality projects.
+
+🔍 **Currently seeking remote-only opportunities** as a **Junior / Entry-Level MERN Stack Developer**, where I can grow my skills, contribute to impactful projects, and collaborate with passionate teams.
+
+🤝 Open to collaboration, continuous learning, and building meaningful products.
+
+    
 </div>
 
 
