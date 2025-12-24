@@ -6,7 +6,7 @@
   
 
   
-  # 👋 Hello there! I'm **Shihab Ahmed**
+  # 👋 Hello there! I'm **Shahariyar Sani Shihab**
   ### 💻 **Frontend Expert | MERN Stack Developer | UI/UX Enthusiast**
   
   <p>
