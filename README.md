@@ -7,7 +7,7 @@
 
   
   # 👋 Hello there! I'm **Shahariyar Sani Shihab**
-  MERN Stack Developer | Frontend-Focused | Building Scalable Web Applications
+  ### MERN Stack Developer | Frontend-Focused | Building Scalable Web Applications
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=shihab5500&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
