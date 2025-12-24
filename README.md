@@ -19,9 +19,6 @@
 
 ## 🚀 About Me & Current Focus
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  ## 👋 About Me
-
 Hi 👋 I'm a **MERN Stack Developer** with a strong passion for building modern, scalable, and user-friendly web applications.
 
 I specialize in **frontend development** using **HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js**, with a strong focus on clean UI, responsive design, and performance.  
@@ -33,8 +30,7 @@ I enjoy turning real-world problems into practical digital solutions and have ha
 
 🤝 Open to collaboration, continuous learning, and building meaningful products.
 
-    
-</div>
+
 
 
 
