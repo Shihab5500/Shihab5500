@@ -76,22 +76,17 @@ I enjoy turning real-world problems into practical digital solutions and have ha
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=shihab5500&show_icons=true&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github.com/shihab5500.png" width="120" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/?username=shihab5500&theme=darkhub&no-frame=true&row=1&column=6"
-  />
+  <img src="https://github.com/shihab5500?tab=overview&from=2024-01-01&to=2025-12-31" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=shihab5500&layout=compact&theme=github_dark&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shihab5500&theme=github-dark" />
 </p>
+
 
 ---
 
