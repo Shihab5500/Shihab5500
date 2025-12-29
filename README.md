@@ -1,19 +1,14 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/DHXBd0Sq/Purple-Pink-Gradient-Modern-Software-Developer-Linked-In-Banner-1.png" alt="Shihab Ahmed Custom Banner | Frontend Developer | MERN Stack" width="100%"/> 
+  <img src="https://i.ibb.co/DHXBd0Sq/Purple-Pink-Gradient-Modern-Software-Developer-Linked-In-Banner-1.png" alt="Shihab Ahmed Custom Banner | Frontend Developer | MERN Stack" width="100%"/> 
 </div>
 
-<div align="center">
-  
+<h1 align="center">👋 Hello there! I'm <b>Shahariyar Sani Shihab</b></h1>
+<h3 align="center">MERN Stack Developer | Frontend-Focused | Building Scalable Web Applications</h3>
 
-  
-  # 👋 Hello there! I'm **Shahariyar Sani Shihab**
-  ### MERN Stack Developer | Frontend-Focused | Building Scalable Web Applications
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=shihab5500&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/shihab5500?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shihab5500&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shihab5500?label=Follow%20Me&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
@@ -30,100 +25,80 @@ I enjoy turning real-world problems into practical digital solutions and have ha
 
 🤝 Open to collaboration, continuous learning, and building meaningful products.
 
-
-
-
-
-
+---
 
 ## 🛠️ Skills & Technologies
 
 <div align="center">
 
 ### 🌐 Languages
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### 💻 Frontend
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/DAISYUI-5A00AA?style=for-the-badge&logoColor=white" alt="DAISYUI"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
-
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAISYUI-5A00AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
 
 ### ⚙️ Backend
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 ### 🍃 Database
-<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ### 🚀 Deployment & Hosting
-<br>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
- 
+<br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
 ### 🔧 Tools & Others
-<br>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools"/>
+<br/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
 </div>
 
-
-
-
-
-
-
+---
 
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shihab5500&show_icons=true&theme=github_dark&hide_border=true" 
-    width="48%" 
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shihab5500&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=shihab5500&theme=darkhub&no-frame=true&row=1&column=6" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=shihab5500&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab5500&layout=compact&theme=github_dark&hide_border=true" 
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shihab5500&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-
+---
 
 ## 🤝 Connect with me
 
-<div align="left">
-<a href="https://www.facebook.com/shahariyarsani.shihab.1" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.linkedin.com/in/shahariyar-sani-shihab/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:saniahmed65900@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
-
-<br/>
+<p align="left">
+  <a href="https://www.facebook.com/shahariyarsani.shihab.1">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shahariyar-sani-shihab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saniahmed65900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
