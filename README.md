@@ -90,17 +90,25 @@ I enjoy turning real-world problems into practical digital solutions and have ha
 
 ## 📈 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab5500&show_icons=true&theme=dark&hide_border=false" alt="Shihab's GitHub Stats" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shihab5500&show_icons=true&theme=github_dark&hide_border=true" 
+    width="48%" 
+  />
+</p>
 
-  <br/><br/>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=shihab5500&theme=darkhub&no-frame=true&row=1&column=6" 
+  />
+</p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shihab5500&theme=dark&column=7" alt="Shihab's GitHub Trophies" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab5500&layout=compact&theme=github_dark&hide_border=true" 
+  />
+</p>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab5500&layout=compact&theme=dark&hide_border=false" alt="Shihab's Top Languages" />
-</div>
 ---
 
 ## 🤝 Connect with me
