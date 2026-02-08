@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4965678d-9773-4346-9b81-c779b21eda61" />
-" alt="Shahariyar Sani Shihab Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4965678d-9773-4346-9b81-c779b21eda61 " />
 </div>
 
 <h1 align="center">👋 Hello there! I'm <b>Shahariyar Sani Shihab</b></h1>
