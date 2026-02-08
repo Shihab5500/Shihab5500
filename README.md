@@ -5,6 +5,18 @@
 <h1 align="center">Hi there, I'm Shahariyar Sani Shihab 👋</h1>
 <h3 align="center">MERN Stack Developer | React.js Specialist | Frontend-Focused</h3>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/shahariyar-sani-shihab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saniahmed65900@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://shihab-dev-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-success?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+  </a>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shihab5500&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shihab5500?label=Follow%20Me&style=social" alt="GitHub Followers" />
@@ -64,16 +76,4 @@ I am a dedicated **MERN Stack Developer** with a passion for building secure, sc
 
 ---
 
-## 🤝 Connect with me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shahariyar-sani-shihab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saniahmed65900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://shihab-dev-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-success?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-  </a>
-</div>
