@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="<img width="2816" height="1536" alt="linkedin cover photo" src="https://github.com/user-attachments/assets/4965678d-9773-4346-9b81-c779b21eda61" />
+  <img src="https://github.com/user-attachments/assets/4965678d-9773-4346-9b81-c779b21eda61" />
 " alt="Shahariyar Sani Shihab Banner" width="100%"/>
 </div>
 
