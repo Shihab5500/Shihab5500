@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4965678d-9773-4346-9b81-c779b21eda61 " />
+  <img src="https://github.com/user-attachments/assets/b524ea32-bff0-4f41-89f7-113c299340d1" />
 </div>
 
 <h1 align="center">👋 Hello there! I'm <b>Shahariyar Sani Shihab</b></h1>
