@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/b524ea32-bff0-4f41-89f7-113c299340d1" />
 </div>
 
-<h1 align="center">👋 Hello there! I'm <b>Shahariyar Sani Shihab</b></h1>
-<h3 align="center">MERN Stack Developer | Frontend-Focused | Building Scalable Web Applications</h3>
+<h1 align="center">Hi there, I'm Shahariyar Sani Shihab 👋</h1>
+<h3 align="center">MERN Stack Developer | React.js Specialist | Frontend-Focused</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shihab5500&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -12,64 +12,45 @@
 
 ---
 
-## 🚀 About Me & Current Focus
+### 🚀 About Me
 
-Hi 👋 I'm a **MERN Stack Developer** with a strong passion for building modern, scalable, and user-friendly web applications.
+I am a dedicated **MERN Stack Developer** with a passion for building secure, scalable, and user-friendly web applications. Coming from an academic background in **Agriculture**, I channeled my discipline into mastering software development.
 
-I specialize in **frontend development** using **HTML, CSS, Tailwind CSS, JavaScript, React.js, and Next.js**, with a strong focus on clean UI, responsive design, and performance.  
-On the backend, I work with **Node.js and Express.js**, integrating **MongoDB and Firebase** to build secure and efficient full-stack applications.
-
-I enjoy turning real-world problems into practical digital solutions and have hands-on experience using tools like **Git, GitHub, Chrome DevTools, Vite, DaisyUI, Figma, and React Router** to deliver high-quality projects.
-
-🔍 **Currently seeking remote-only opportunities** as a **Junior / Entry-Level MERN Stack Developer**, where I can grow my skills, contribute to impactful projects, and collaborate with passionate teams.
-
-🤝 Open to collaboration, continuous learning, and building meaningful products.
+- 🔭 I’m currently working on **Next.js & TypeScript projects**.
+- 🌱 I’m currently learning **Advanced Backend Architecture**.
+- 💡 I specialize in **Frontend Development (React.js)** with a strong focus on UI/UX.
+- 👯 I’m looking to collaborate on **Open Source projects**.
+- ⚡ Fun fact: I love playing **Badminton**! 🏸
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Languages & Tools
 
-<div align="center">
+**Frontend:**
+<br />
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
-### 🌐 Languages
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+**Backend & Database:**
+<br />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-### 💻 Frontend
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAISYUI-5A00AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
-
-### ⚙️ Backend
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-### 🍃 Database
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-### 🚀 Deployment & Hosting
-<br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-### 🔧 Tools & Others
-<br/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</div>
+**Tools & Hosting:**
+<br />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
 ---
 
@@ -85,14 +66,14 @@ I enjoy turning real-world problems into practical digital solutions and have ha
 
 ## 🤝 Connect with me
 
-<p align="left">
-  <a href="https://www.facebook.com/shahariyarsani.shihab.1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shahariyar-sani-shihab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shahariyar-sani-shihab">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:saniahmed65900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-</p>
+  <a href="https://shihab-dev-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-success?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+  </a>
+</div>
