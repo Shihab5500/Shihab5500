@@ -26,7 +26,7 @@
 
 ### 🚀 About Me
 
-Hi, I'm **Shahariyar Sani Shihab**, a passionate MERN Stack Developer
+Hi, I'm **Shahariyar Sani Shihab**, a passionate MERN Stack Developer.
 
 Coming from an academic background in **Agriculture**, I discovered my true passion in technology and software engineering. This unique journey has taught me resilience, adaptability, and the discipline to master complex concepts from scratch.
 
