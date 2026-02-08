@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/9md48BG3/linkedin-cover-photo.png" alt="Shihab Ahmed Custom Banner | Frontend Developer | MERN Stack" width="100%"/> 
+  <img src="https://i.ibb.co/9md48BG3/linkedin-cover-photo.png" alt="Shahariyar Sani Shihab Banner" width="100%"/>
 </div>
 
 <h1 align="center">👋 Hello there! I'm <b>Shahariyar Sani Shihab</b></h1>
