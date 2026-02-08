@@ -26,15 +26,18 @@
 
 ### 🚀 About Me
 
-I am a dedicated **MERN Stack Developer** with a passion for building secure, scalable, and user-friendly web applications. Coming from an academic background in **Agriculture**, I channeled my discipline into mastering software development.
+Hi, I'm **Shahariyar Sani Shihab**, a passionate MERN Stack Developer
 
-- 🔭 I’m currently working on **Next.js & TypeScript projects**.
-- 🌱 I’m currently learning **Advanced Backend Architecture**.
-- 💡 I specialize in **Frontend Development (React.js)** with a strong focus on UI/UX.
-- 👯 I’m looking to collaborate on **Open Source projects**.
-- ⚡ Fun fact: I love playing **Badminton**! 🏸
+Coming from an academic background in **Agriculture**, I discovered my true passion in technology and software engineering. This unique journey has taught me resilience, adaptability, and the discipline to master complex concepts from scratch.
 
----
+I love turning ideas into functional, real-world web applications. My goal is to write clean, reusable code and build user-friendly interfaces that solve actual problems.
+
+- 🔭 I’m currently working on: **Advanced E-commerce projects with Next.js & TypeScript**.
+- 🌱 I’m currently learning: **System Design & Advanced Backend Architecture**.
+- 💡 I specialize in: **Frontend Development (React.js)** with a strong focus on UI/UX and performance optimization.
+- 👯 I’m looking to collaborate on: **Open Source projects** and meaningful web apps.
+- 💬 Ask me about: **React, JavaScript, or Badminton!** 🏸
+- ⚡ Fun fact: I believe coding is a lot like farming – you plant the logic, water it with patience, and harvest a great product! 🌾
 
 ### 🛠️ Languages & Tools
 
