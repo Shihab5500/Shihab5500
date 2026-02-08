@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b524ea32-bff0-4f41-89f7-113c299340d1" />
 </div>
 
-<h1 align="center">Hi there, I'm Shahariyar Sani Shihab 👋</h1>
+<h1 align="center">👋 Hi there, I'm Shahariyar Sani Shihab</h1>
 <h3 align="center">MERN Stack Developer | React.js Specialist | Frontend-Focused</h3>
 
 <div align="center">
