@@ -7,13 +7,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shahariyar-sani-shihab">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:saniahmed65900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://shihab-dev-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-success?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
